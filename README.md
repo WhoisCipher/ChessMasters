@@ -1,4 +1,4 @@
-# ♖ Chess Masters
+# Chess Masters ♖
 
 Welcome to **Chess Masters**, a thrilling chess game developed as a semester-end project. This game brings together four unique chess piece sets, each with its own distinctive style and history. Dive into the world of strategic gameplay and explore the rich heritage behind each piece set.
 
