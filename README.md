@@ -1,3 +1,3 @@
 # ChessMasters
 
-The clasical game of chess built for Windows native
+The clasical game of chess rebuilt! The design is inspired by my favourite chess website lichess.org.
