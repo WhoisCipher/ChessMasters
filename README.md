@@ -1,12 +1,12 @@
-# Chess Masters ♖
+# Chess Masters ♚
 
 Welcome to **Chess Masters**, a thrilling chess game developed as a semester-end project. This game brings together four unique chess piece sets, each with its own distinctive style and history. Dive into the world of strategic gameplay and explore the rich heritage behind each piece set.
 
-## About the Game
+## About the Game ♛
 
 **Chess Masters** is not just another chess game—it's a journey through different artistic interpretations of chess pieces. Each set has been meticulously crafted to offer a unique playing experience, combining classic chess strategy with visually stunning designs.
 
-## Chess Piece Sets
+## Chess Piece Sets ♝
 
 ### 1. Alpha Set
 
@@ -32,11 +32,11 @@ The **Merida Set** is inspired by medieval chess designs, featuring robust and e
 
 ![Merida Set](external/pieces/merida/wN.png)
 
-## How to Play
+## How to Play ♟
 
 **Chess Masters** follows the traditional rules of chess, with the added twist of choosing from one of the four unique piece sets. Whether you’re a seasoned player or a beginner, the game offers a challenging and visually appealing experience.
 
-## Installation
+## Installation ♖
 
 Unfortunately, the actual installation package of this repository is still under development. However, if you are a developer interested in building the game from source, you can follow these steps:
 
@@ -60,11 +60,11 @@ make
 ```
 
 
-## Contact
+## Contact ✉️
 
 For any questions or feedback, please reach out to me at [abdullah@gmail.com](mailto:abdulahshoiab@gmail.com).
 
-## Acknowledgments
+## Acknowledgments ⭐
 
 A special thanks to the developers, designers, and everyone who contributed to making **Chess Masters** a reality. Your support and dedication have been invaluable.
 
