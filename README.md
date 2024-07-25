@@ -14,11 +14,11 @@ The **Alpha Set** is a modern reinterpretation of classic chess pieces, combinin
 
 ![Alpha Set](external/pieces/alpha/wN.png)
 
-### 2. Cburnett Set
+### 2. Cburnett Set ![Cburnett Set](external/pieces/cburnett/wN.png)
 
 The **Cburnett Set** features intricate designs inspired by historical chess pieces. Named after the renowned artist Cburnett, this set reflects a rich blend of historical elements and artistic flair. Each piece tells a story, making it a perfect choice for those who cherish chess history.
 
-![Cburnett Set](external/pieces/cburnett/wN.png)
+
 
 ### 3. Kosal Set
 
