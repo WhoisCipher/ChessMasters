@@ -1,0 +1,17 @@
+r - White Rook
+t - Black Rook
+
+n - White Knight
+m - Black Knight
+
+b - White Bishop
+v - Black Bishop
+
+q - White Queen
+w - Black Queen
+
+k - White King
+l - BLack King
+
+p - White Pawn
+o - Black Pawn
