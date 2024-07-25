@@ -31,7 +31,7 @@ Piece handlePawnPromotion(RenderWindow& window, PieceColor color, int newX, int 
 void game(RenderWindow&, PieceSet pieceSet);
 
 int main() {
-    RenderWindow menu(VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Chess", Style::Titlebar | Style::Close);
+    RenderWindow menu(VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Chess Masters", Style::Titlebar | Style::Close);
 
     Texture bgTexture;
     Sprite bg;
