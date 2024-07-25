@@ -5,7 +5,7 @@ LDFLAGS = -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-networ
 SRC_DIR = source
 OBJ_DIR = obj
 INCLUDE_DIR = header
-TARGET = Chess.exe
+TARGET = Chess
 
 # Source files
 SOURCES = $(wildcard $(SRC_DIR)/*.cpp)
