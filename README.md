@@ -34,7 +34,7 @@ The **Merida Set** is inspired by medieval chess designs, featuring robust and e
 
 ## How to Play ♟
 
-**Chess Masters** follows the traditional rules of chess, with the added twist of choosing from one of the four unique piece sets. Whether you’re a seasoned player or a beginner, the game offers a challenging and visually appealing experience.
+**Chess Masters** follows the traditional rules of chess, with the added twist of choosing from one of the four unique piece sets. Whether you’re a seasoned player or a beginner, the game offers a challenging and visually appealing experience. The Time Control is 10 minutes and the pieces that are captured are also recoreded under the corresponding player.
 
 ## Installation ♖
 
