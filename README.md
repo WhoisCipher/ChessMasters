@@ -14,11 +14,11 @@ The **Alpha Set** is a modern reinterpretation of classic chess pieces, combinin
 
 ![Alpha Set](external/pieces/alpha/wN.png)
 
-### 2. Cburnett Set ![Cburnett Set](external/pieces/cburnett/wN.png)
+### 2. Cburnett Set
 
 The **Cburnett Set** features intricate designs inspired by historical chess pieces. Named after the renowned artist Cburnett, this set reflects a rich blend of historical elements and artistic flair. Each piece tells a story, making it a perfect choice for those who cherish chess history.
 
-
+![Cburnett Set](external/pieces/cburnett/wN.png)
 
 ### 3. Kosal Set
 
@@ -38,15 +38,31 @@ The **Merida Set** is inspired by medieval chess designs, featuring robust and e
 
 ## Installation
 
-To play **Chess Masters**, follow these steps:
+Unfortunately, the actual installation package of this repository is still under development. However, if you are a developer interested in building the game from source, you can follow these steps:
 
-1. Download the game from [here](link-to-download).
-2. Extract the files to your desired location.
-3. Run the executable file to start the game.
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/yourusername/chess-masters.git
+cd chess-masters
+```
+
+2. **Install Dependencies:**
+Make sure you have the required development tools and libraries installed. On Debian-based systems, you can install them with:
+```bash
+sudo apt-get update
+sudo apt-get install build-essential mingw-w64 libsfml-dev
+```
+
+3. **Build the Project:**
+Use the provided Makefile to build the game:
+```bash
+make
+```
+
 
 ## Contact
 
-For any questions or feedback, please reach out to us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please reach out to me at [abdullah@gmail.com](mailto:abdulahshoiab@gmail.com).
 
 ## Acknowledgments
 
