@@ -2,7 +2,7 @@
 
 Welcome to **Chess Masters**, a thrilling chess game developed as a semester-end project. This game brings together four unique chess piece sets, each with its own distinctive style and history. Dive into the world of strategic gameplay and explore the rich heritage behind each piece set.
 
-![GameScreenShot1] (external/ChessMasters01.png)
+![Alpha Set](external/ChessMasters01.png)
 
 ## About the Game ♛
 
@@ -38,7 +38,7 @@ The **Merida Set** is inspired by medieval chess designs, featuring robust and e
 
 **Chess Masters** follows the traditional rules of chess, with the added twist of choosing from one of the four unique piece sets. Whether you’re a seasoned player or a beginner, the game offers a challenging and visually appealing experience. The Time Control is 10 minutes and the pieces that are captured are also recoreded under the corresponding player.
 
-![GameScreenShot2] (external/ChessMaster02.png)
+![GameScreenShot2](external/ChessMaster02.png)
 
 ## Installation ♖
 
